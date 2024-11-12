@@ -1,3 +1,3 @@
 # react-basics-labs
 
-WebAppDev Lab
+WebAppDev2 labs for weeks 1-3
